@@ -1,2 +1,2 @@
 # uke-chord-maker
-Forked from https://github.com/buzcarter/UkeGeeks
+Download and modified of https://github.com/buzcarter/UkeGeeks
